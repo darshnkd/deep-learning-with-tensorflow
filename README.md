@@ -13,8 +13,6 @@ Welcome to the **Deep Learning with TensorFlow** repository! This Repo is design
 
 ## Introduction
 
-## Introduction
-
 This repository is dedicated to deep learning using TensorFlow, covering essential topics like neural network regression and classification. You'll learn how to build and train models by defining a neural network architecture, compiling it with appropriate loss functions and optimizers, and training it on data. You'll also explore methods for evaluating model performance using metrics like accuracy and confusion matrices. By visualizing learning curves and tweaking the model, you can iteratively enhance its accuracy and generalization.
 
 ## Installation
