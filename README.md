@@ -27,4 +27,4 @@ To get started:
 
 3. **Run the Cells**: Follow along with the instructions in the notebooks, running the cells as you go.
 
-Google Colab already has TensorFlow pre-installed, so you're ready to start experimenting with deep learning models right away!
+Google Colab already has TensorFlow pre-installed, so you're ready to start experimenting with deep learning models right away.
